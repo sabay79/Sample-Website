@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(245, 215, 235);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.image{
+    text-align: center;
+}
+img{
+    height: 250px;
+}
+button{
+    height: 30px;
+    fill: silver;
+}
